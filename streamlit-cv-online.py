@@ -68,7 +68,7 @@ st.write('\n')
 st.subheader('Experience')
 st.write("""
 - Years of experience in fusion plasma research
-- Taken and teached multiple laboratory classes in undergraduate physics students
+- Taken and taught multiple laboratory classes in undergraduate physics students
 """)
 
 # skills
