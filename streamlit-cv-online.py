@@ -84,7 +84,7 @@ st.write("---")
 st.write('\n')
 st.subheader('Studies')
 st.write('- PhD student/Researcher in Physics and Mechanics (2018-Present). PhD Thesis entitled "Nonlinear particle dynamics and momentum transport under interaction with electromagnetic waves in plasmas"')
-st.write('- MSc in Physics (2015-2017). Masters Thesis in fusion plasma entitled "Colliding shock waves in magnetized fusion plasma"')
+st.write('- MSc in Advanced Physics (2015-2017). Masters Thesis in fusion plasma entitled "Colliding shock waves in magnetized fusion plasma"')
 st.write('- BSc in Physics (2011-2015). Diploma Thesis in General Relativity entitled "Exuct solutions of Einsteins Equations: the case of spherical symmetric fluid"')
 
 # Projects & Accomplishments
